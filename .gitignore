@@ -1,0 +1,12 @@
+# This repository is PUBLIC (GitHub Pages on the free plan requires a public repo).
+# Never commit anything containing accounts, keys or DNS credentials.
+
+.DS_Store
+*.log
+*.bak
+*.swp
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
